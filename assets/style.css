@@ -280,8 +280,8 @@ body {
   transform: scale(1.1);
 }
 :root {
-  --scrollcolor: #fff;
-  --scrollbackground: #141e27;
+  --scrollcolor:#06AA51;
+  --scrollbackground: #ffffff;
 }
 
 /*FOOTER - RODAPÉ*/
@@ -312,7 +312,7 @@ body {
 }
 
 
-/*CSS FEITO A MÃO DE OUTRO PROJ! SÓ PRA SALVAR
+/*CSS FEITO A MÃO DE OUTRO PROJ! SÓ PRA SALVAR*
 
 /*.top{
     
